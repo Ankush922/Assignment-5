@@ -17,10 +17,9 @@ CREATE TABLE `customer` (
 
 
 INSERT INTO `customer` VALUES 
-	(1,'David','Adams','David@gl.com'),
-	(2,'Maxwell','Dixon','Maxwell@gl.com'),
-	(3,'John','Doe','John@gl.com'),
-	(4,'Mary','Public','Mary@gl.com'),
-	(5,'Ajay','Rao','Ajay@gl.com');
+	(1,'Harshit','Chaudhary','Harshit@gmail.com'),
+	(2,'Ankit','Garg','Ankit@gmail.com'),
+	(3,'Monica','Sharma','Monica@gmail.com'),
+	(4,'Bhavya','Shetty','Bhavya@gmail.com');
 
 
